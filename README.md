@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d7a,100:00d4ff&height=200&section=header&text=Aditya%20Kolluru&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20AI%20systems%20that%20see%20threats%20before%20signatures%20do.&descAlignY=58&descSize=16&descColor=7dd3fc" width="100%" />
+<!-- Typing Animation (herokuapp is reliable for SVG typing) -->
+<h1>Hi, I'm Aditya Kolluru 👋</h1>
 
-<!-- Typing Animation -->
 <a href="https://github.com/AdityaK-gits">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;Cybersecurity+Builder+%F0%9F%94%90;Real+Systems.+Real+Impact.;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;Cybersecurity+Builder+%F0%9F%94%90;Real+Systems.+Real+Impact.;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/aditya-kolluru-a04b0a36a/">
@@ -26,7 +25,7 @@
 
 <br/><br/>
 
-<!-- Profile Views -->
+<!-- Profile Views — komarev is stable and widely used -->
 <img src="https://komarev.com/ghpvc/?username=AdityaK-gits&style=for-the-badge&color=0e4d7a&label=PROFILE+VIEWS" />
 
 </div>
@@ -119,12 +118,15 @@ I'm an Information Science & Engineering student at **MS Ramaiah University of A
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdityaK-gits&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=0e4d7a&text_color=c9d1d9&ring_color=00D4FF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaK-gits&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" height="165" />
+<!-- github-readme-stats: most reliable option, self-hostable, widely cached by GitHub -->
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaK-gits&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaK-gits&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&langs_count=6" height="160" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaK-gits&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=8b949e" />
+<!-- Streak stats: using streak-stats.demolab.com — replaces dead herokuapp version -->
+<img src="https://streak-stats.demolab.com?user=AdityaK-gits&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=8b949e" />
 
 </div>
 
@@ -156,20 +158,18 @@ If you're working on anomaly detection, threat intelligence, or ML-powered secur
 <a href="https://www.linkedin.com/in/aditya-kolluru-a04b0a36a/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:adityakolluru2004@gmail.com">
   <img src="https://img.shields.io/badge/adityakolluru2004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://aditya-kolluru-portfolio.netlify.app/">
   <img src="https://img.shields.io/badge/View_Portfolio-00D4FF?style=for-the-badge&logo=netlify&logoColor=0d1117" />
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e4d7a,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=AdityaK-gits&style=flat-square&color=0e4d7a&label=Profile+Views" />
 
 *Last updated: June 2026*
 
